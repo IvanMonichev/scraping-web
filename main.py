@@ -83,6 +83,5 @@ def main():
     print(f"Done! {len(articles)} articles have been successfully recorded.")
 
 
-# Запускаем main, если скрипт выполнен напрямую
 if __name__ == "__main__":
     main()
